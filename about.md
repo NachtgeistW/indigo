@@ -2,44 +2,56 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+[点击查看中文版本](../about_zh)
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Nice to meet you. My name is NachtgeistW, a passionate game developer from China. I use Unity for work, and Godot to create my own games. My goal is to develop and create fun games with easy-to-read and well-designed code.
 
-<h2>Skills</h2>
+Outside of work, I love playing music rhythm games, especially BEMANI series and Rayark series. I also enjoy spending time reading, listening to VOCALOID songs and watching SoftwareTalk videos. These are relaxing hobbies that gives me a break from the fast-paced world of software engineering.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+---
 
-<h2>Projects</h2>
+<p style="text-align:center">Your life is yours for you</p>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+---
+
+## Skills, Methodologies and Tools
+
+- Programming/Scripting Languages: C#, C++, Python
+- Game Engines: Unity, Godot4
+- Version Control: Git, Plastic SCM
+- Source Code Management: GitHub, Gitea
+- CI/CD: GitHub Actions, Jenkins
+- Cloud Platform Services: Cloudflare, Aliyun
+- Project, Defect and Test Managment: Lark (Feishu), GitHub Projects, Trello
+- Communication: Lark (Feishu), Slack, MS Teams, Zoom
+
+## Projects
+
+- [Plutono: A two-in-one piano rhythm games simulator](https://github.com/NachtgeistW/Plutono)
+
+## Open Source Experience
+
+- [OI Wiki: Wiki of OI / ICPC for everyone.](https://github.com/OI-wiki/OI-wiki)
+
+## Experience
+
+<table> 
+	<tr> 
+        <td> 
+            <i>May 2023 - Present</i> &nbsp;&nbsp;&nbsp;&nbsp;
+        </td> 
+        <td> 
+            <strong>Junior Unity Developer</strong>
+        </td> 
+    </tr> 
+    <tr> 
+        <td> 
+        </td> 
+        <td> 
+            <a target="_blank" rel="noopener noreferrer" href="http://pigeongames.cn">Pigeon Games</a>
+        </td> 
+    </tr> 
+</table>

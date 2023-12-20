@@ -1,14 +1,14 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: NachtgeistW
+bio: A person who develops games with hot chocolate
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A portfolio about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars.githubusercontent.com/u/35161925
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -16,11 +16,11 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nachtgeistw.zone
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,23 +31,24 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+weibo: u/7312904644
+twitter: Nightwheel_C
+# instagram: myinstagram
+# linkedin: mylinkedin
+github: NachtgeistW
+email: contact@nachtgeistw.zone
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  nachtgeistw:
+    name: NachtgeistW
+    bio: A person who develops games with hot chocolate
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: Nightwheel_C
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
@@ -58,7 +59,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -67,20 +68,22 @@ projects: true
 about: true
 blog: true
 
+knowledge-base: true
+
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
