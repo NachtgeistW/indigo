@@ -1,5 +1,5 @@
 ---
-title: "🚧Plutono: A two-in-one piano rhythm games simulator"
+title: "[WIP] Plutono: A two-in-one piano rhythm games simulator"
 layout: post
 date: 2023-12-20 19:10
 tag: 
