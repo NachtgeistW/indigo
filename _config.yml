@@ -37,12 +37,12 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-weibo: u/7312904644
-twitter: Nightwheel_C
+# weibo: myweibo
+twitter: NachtgeistW
 # instagram: myinstagram
 # linkedin: mylinkedin
 github: NachtgeistW
-email: contact@nachtgeistw.zone
+# email: mailto
 
 authors:
   nachtgeistw:
@@ -50,7 +50,7 @@ authors:
     bio: A person who develops games with hot chocolate
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: Nightwheel_C
+    twitter: NachtgeistW
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
